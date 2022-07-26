@@ -76,7 +76,7 @@ const Control = () => {
         {endGame ? (
           <div className="end-game">Game Over</div>
         ) : (
-          <>
+          <><div className="input-title">Knocked Pins: </div>
             <Input
               onChange={onChange}
               value={knockedPins + failedInput}
