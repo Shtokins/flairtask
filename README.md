@@ -4,12 +4,6 @@ Local run: npm start
 
 # Write an App that takes score of a bowling game
 
-Thanks for your interest in joining our team!
-
-We are very practical at flair and this extends to the way that we work with you to find out if this team is a great fit for you. We want you to come away with a great understanding of the work that we actually do day-to-day and what it is like to work with us.
-
-So instead of coding at a whiteboard with someone watching over your shoulder under high pressure, which is not a thing we often do, we instead discuss code that you have written previously when we meet.
-
 ## Main Requirements
 
 The App should be written using [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/). In addition, it should provide the following:
@@ -34,7 +28,3 @@ The App should be written using [React](https://reactjs.org/) and [TypeScript](h
 - Thus the tenth frame may have three balls instead of two.
 
 For background information, please see [http://en.wikipedia.org/wiki/Ten-pin_bowling](http://en.wikipedia.org/wiki/Ten-pin_bowling)
-
-## Going Above and Beyond the Requirements
-
-Given the time expectations of this exercise, we don't expect anyone to submit anything super fancy, but if you find yourself with extra time, any extra credit item(s) that showcase your unique strengths would be awesome! 🙌
